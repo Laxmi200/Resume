@@ -1,0 +1,333 @@
+body{
+    background-color: #43565769;
+    margin-left: 10rem;
+    margin-top: 2rem
+  
+  }
+  
+  .split {
+    height: 100%;
+    width: 30%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  
+  }
+  h6{
+    margin-left: 5rem;
+  
+  }
+  h2{
+    margin-left: 4rem;
+    margin-top: -2rem;
+    
+  }
+  h5{
+    margin-left: 4rem;
+    margin-top: -1rem;
+  }
+  h3{
+    margin-left: 4rem;
+    margin-top: -2.8rem;
+  }
+  p{
+    margin-left: 4rem;
+    margin-top: -2rem;
+  }
+  .shruti h5{
+    margin-top: 2rem;
+  }
+  h4{
+    margin-left: 4rem;
+  }
+  .expertise h2{
+    margin-left: 4rem;
+    margin-top: -1rem;
+  }
+  .expertise ul{
+    margin-left: 3rem;
+    margin-top: -2rem;
+  }
+   .emoji h2{
+    margin-top: 0.3rem;
+    margin-left: 4rem;
+  
+  }
+  h5{
+    margin-top: 1rem;
+    margin-left: 4rem;
+  }
+  .intrest h3{
+    margin-top: -2rem;
+    margin-left: 4rem;
+  }
+  .intrest h5{
+    margin-left: 10rem;
+    margin-top: -4rem;
+  }
+  .music h1{
+    margin-left: 4rem;
+  }
+  .airoplane h1{
+    margin-left: 10rem;
+    margin-top: -5.3rem;
+  }
+  .airoplane p{
+    margin-left: 10rem;
+  }
+  .cycle h1{
+    margin-left: 17rem;
+    margin-top: -5rem;
+  }
+  .cycle p{
+    margin-left: 17rem;
+    margin-top: -2.3rem;
+  }
+  .game h1{
+    margin-left: 23rem;
+    margin-top: -5rem;
+  }
+  .game p{
+    margin-left: 23rem;
+    margin-top: -2.3rem;
+  }
+  .fitness h1{
+    margin-left: 4rem;
+  
+  }
+  .fitness p{
+    margin-left: 4rem;
+  }
+  .camera h1{
+    margin-left: 10rem;
+    margin-top: -5.3rem;
+  }
+  .camera p{
+    margin-left: 10rem;
+  }
+  .tennis h1{
+    margin-left: 17rem;
+    margin-top: -5rem;
+  }
+  .tennis p{
+    margin-left: 17rem;
+    margin-top: -0.5;
+  }
+  /* Control the left side */
+  .left {
+    margin-left: 380px;
+  
+    left: 0;
+    background-color: white;
+  }
+  
+  /* Control the right side */
+  .right {
+    margin-right: 340px;
+    
+    right: 0;
+    background-color: lightgray;
+  }
+  
+  /* If you want the content centered horizontally and vertically */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .name p{
+  margin-top: 4rem;
+  font-size: 50px;
+  }
+  .text h3{
+    color: white;
+    
+    
+  
+  }
+  .hero {
+  border-bottom: 5px solid black;
+  border-width: 30px;
+  height: 10rem;
+  margin-left: 60px;
+  margin-right: 200px;
+  margin-top: -210px;
+  }
+  
+  
+  
+  .facebook i {
+    margin-left: 2rem;
+  }
+  .facebook p{
+    margin-left: 3rem;
+    margin-top: -1.3rem;
+  }
+  .twitter{
+    margin-left: 9rem;
+    margin-top: -2rem;
+  }
+  .twitter p{
+    margin-top: -1.3rem;
+    margin-left: 1rem;
+  }
+  .football {
+    margin-left: 260px;
+    margin-top: -30px;
+    
+  }
+  
+  .john p{
+    margin-left: 17.3rem;
+    
+    margin-top: -1.3rem;
+  }
+    
+  
+    
+    
+  
+  .skill{
+    margin-top: 20px;
+  }
+  .kuchh{
+    margin-top: -30px;
+    font-size: 15px;
+  
+  }
+  .dot{
+    font-size: 10px;
+    margin-left: 8rem;
+  }
+  .illustrator{
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  .dot2{
+    font-size: 10px;
+    margin-left: 8rem;
+  }
+  .html{
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  .dot3{
+    font-size: 10px;
+    margin-left: 8rem;
+  }
+  .css{
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  .dot4{
+    font-size: 10px;
+    margin-left: 8rem;
+  }
+  .wordpress{
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  .dot5{
+    font-size: 10px;
+    margin-left: 8rem;
+  }
+  .jquery{
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  .dot6{
+    font-size: 10px;
+    margin-left: 8rem;
+  }
+  .experience{
+    margin-top: 50px;
+  }
+  .present{
+    font-size: 15px;
+    margin-top: 25px;
+  }
+  .tech {
+    margin-top: -40px;
+    font-size: 20px;
+  }
+  .head p{
+    font-size: 15px;
+    margin-top: -45px;
+  }
+  .shru{
+    font-size: 15px;
+    margin-top: 10px;
+  }
+  .para{
+    margin-top: 60px;
+    font-size: 15px;
+  }
+  .kana{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+  .kana p{
+    font-size: 15px;
+    margin-top: -40px;
+  }
+  .para2{
+    font-size: 15px;
+    margin-top: 45px;
+  }
+  .para3{
+    font-size: 15px;
+    margin-top: 60px;
+  }
+  .paper{
+    margin-top: 50px;
+  }
+  .paper p{
+    font-size: 15px;
+    margin-top: -40px;
+  }
+  .shru2{
+    font-size: 15px;
+    margin-top: 50px;
+  }
+  .education{
+    margin-top: 70px;
+  }
+  .para4{
+    margin-top: 60px;
+    font-size: 15px;
+  }
+  .master{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+  .master p{
+    font-size: 15px;
+    margin-top: -38px;
+  }
+  .para5{
+    margin-top: 60px;
+    font-size: 15px;
+  
+  }
+  .bachelor{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+  .bachelor p{
+    font-size: 15px;
+    margin-top: -38px;
+  }
+  .marquee{
+   margin-right: -80px;
+   margin-top: 10px;
+  margin-left: 140px;
+  }
+
+  .marquee1{
+   margin-top: 10px;
+   margin-left: -65px;
+   }
